@@ -14,12 +14,12 @@
 <br>
  <main>
         <img src="../Screenshot_20250724-214040.jpg" alt="" width="200px">
-         <h2 style="color: rgb(81, 151, 11);">What is Respect</h2>
+         <h2">What is Respect</h2>
             <li>Respect means treating others with kindness,consideration,and dignity.Its about valuing people's feeling,<br>
                 rights,and boundaries,and showing appreciation for who they are and what they do. </li>        
     <section>  
         <article>            
-        <h2 style="color: rgb(30, 37, 134);">How to Respect?</h2>
+        <h2">How to Respect?</h2>
         <ul>
             <li>Always use po/opo</li>
             <li>sayin"please"and"thank you"</li>
