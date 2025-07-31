@@ -37,7 +37,7 @@
     </section>
 
     <section>
-        <h2 style="color: rgb(17, 99, 99);">Benifits of being respectful</h2>
+        <h2>Benifits of being respectful</h2>
         <ul>
             <li>You will get the same respect</li>
             <li>stronger relationship</li>
@@ -50,7 +50,7 @@
     </section>
 
     <section>
-        <h2 style="color: rgb(159, 75, 201);">Why we need to be Respectful?</h2>
+        <h2>Why we need to be Respectful?</h2>
         <ul>
             <li>Becuase when you're Respectful,others feel valued,<br>
                 they feel safe when you are around,<br>
