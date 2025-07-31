@@ -3,34 +3,64 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Resume</title>
+    <title>Respect</title>
 </head>
-<body bgcolor="gray">
-    <h1><em>Diaz Leslyn</em></h1>
-    <img src="../semantics/Messenger_creation_AB91D5FA-429A-492E-888F-5BB5700E54DC.jpeg" alt="" width="100px">
-<h2>Summary</h2>
-    <li>Im a senior high school Graudate,and this was the end of one journey but the beginning of another journey.  </li><br>
-<h2>Education</h2>
-    <li>Learn about coding,web development,and Programming Fundamentals</li>
-<h2>Work Experience</h2>
-    <li>Student</li>
-<h2>Skills</h2>
-    <li> Know Design in Digital</li>
-    <li>Know how to code</li>
-    <li> I play Takwondo</li>
-    <li>problem solving</li>
-<h2>Awards</h2>
-    <li>Academic Excellence Award</li>
-    <li>Special Awards for project</li>
-    <li>Digital Design Awads</li>
-<hr>
-<h2>Other Details</h2>
-<a href="./Habits.html">HABITS</a><br>
-<a href="./Shool.html">SCHOOL</a><br>
-<a href="./My friends.html">MY FRIENDS</a><hr>
-<footer>
-    <p>&copy;<i>Thats all </i></p>
-    <p>&copy;<i>Yhank you</i></p>
-</footer>
+<body>
+ <header>
+    <nav>
+        <a href="../respectful.html"><em>RESPECTFUL</em></a>
+    </nav>
+ </header>   
+<br>
+ <main>
+        <img src="../Screenshot_20250724-214040.jpg" alt="" width="200px">
+         <h2 style="color: rgb(81, 151, 11);">What is Respect</h2>
+            <li>Respect means treating others with kindness,consideration,and dignity.Its about valuing people's feeling,<br>
+                rights,and boundaries,and showing appreciation for who they are and what they do. </li>        
+    <section>  
+        <article>            
+        <h2 style="color: rgb(30, 37, 134);">How to Respect?</h2>
+        <ul>
+            <li>Always use po/opo</li>
+            <li>sayin"please"and"thank you"</li>
+            <li>Be kind</li>
+            <li>Appreciate others do for you</li>
+            <li>Use polite words</li>
+            <li>Be patient</li>
+            <li>Great the teacher/visitors with smile on you're face</li>
+            <li>Respect others idea</li>
+            <li>listen when someone is talking</li>
+            <li>Respect you're self </li>
+            <li>and dont iterrupt others when there talking</li>
+        </ul>
+        </article>
+    </section>
+
+    <section>
+        <h2 style="color: rgb(17, 99, 99);">Benifits of being respectful</h2>
+        <ul>
+            <li>You will get the same respect</li>
+            <li>stronger relationship</li>
+            <li>Increased trust</li>
+            <li>Less argument</li>
+            <li>People likes you more</li>
+            <li>Gets you more good vibes</li>
+            <li>Can get more help and support from others</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2 style="color: rgb(159, 75, 201);">Why we need to be Respectful?</h2>
+        <ul>
+            <li>Becuase when you're Respectful,others feel valued,<br>
+                they feel safe when you are around,<br>
+                and that builds stronger connection. </li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; <i>Always be respectful!!! <br>
+            That's all Thank you</i></p>
+    </footer>
+ </main>
 </body>
 </html>
